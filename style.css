@@ -17,5 +17,5 @@ ul{list-style: none;}}
 #link-to-article{text-transform: var(--secondary-style); color: var(--secondary-color); font-weight: var(--font-weight); transform: none;}
 #header-btn:hover{
     scale: 1.1;
-    background-color: var(--secondary-color);
+    cursor: pointer;    
 }
